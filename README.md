@@ -4,6 +4,10 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multimae-der-multimodal-masked-autoencoder/video-emotion-recognition-on-crema-d)](https://paperswithcode.com/sota/video-emotion-recognition-on-crema-d?p=multimae-der-multimodal-masked-autoencoder)<br>
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multimae-der-multimodal-masked-autoencoder/multimodal-emotion-recognition-on-iemocap)](https://paperswithcode.com/sota/multimodal-emotion-recognition-on-iemocap?p=multimae-der-multimodal-masked-autoencoder)<br>
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mtcae-dfer-multi-task-cascaded-autoencoder/facial-emotion-recognition-on-ravdess)](https://paperswithcode.com/sota/facial-emotion-recognition-on-ravdess?p=mtcae-dfer-multi-task-cascaded-autoencoder)<br>
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mtcae-dfer-multi-task-cascaded-autoencoder/video-emotion-recognition-on-crema-d)](https://paperswithcode.com/sota/video-emotion-recognition-on-crema-d?p=mtcae-dfer-multi-task-cascaded-autoencoder)<br>
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mtcae-dfer-multi-task-cascaded-autoencoder/dynamic-facial-expression-recognition-on-mead)](https://paperswithcode.com/sota/dynamic-facial-expression-recognition-on-mead?p=mtcae-dfer-multi-task-cascaded-autoencoder)<br>
+
 > [![HCPS link](https://img.shields.io/badge/FIU-HCPS-red)](https://hcps.fiu.edu/) [![Arxiv link](https://img.shields.io/static/v1?label=arXiv&message=MTCAE-DFER&color=red&logo=arxiv)](https://arxiv.org/abs/2412.18988) [![Citation link](https://img.shields.io/badge/Citation-BibTeX-red)](#citation)<br>
 > [Peihao Xiang](https://scholar.google.com/citations?user=k--3fM4AAAAJ&hl=zh-CN&oi=ao), [Kaida Wu](https://ieeexplore.ieee.org/author/167739911238744), [Chaohao Lin](https://scholar.google.com/citations?hl=zh-CN&user=V3l7dAEAAAAJ), and [Ou Bai](https://scholar.google.com/citations?hl=zh-CN&user=S0j4DOoAAAAJ)<br>
 > HCPS Laboratory, Department of Electrical and Computer Engineering, Florida International University<br>
