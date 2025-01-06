@@ -1,9 +1,5 @@
 # MTCAE-DFER: Multi-Task Cascaded Autoencoder for Dynamic Facial Expression Recognition
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multimae-der-multimodal-masked-autoencoder/emotion-recognition-on-ravdess)](https://paperswithcode.com/sota/emotion-recognition-on-ravdess?p=multimae-der-multimodal-masked-autoencoder)<br>
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multimae-der-multimodal-masked-autoencoder/video-emotion-recognition-on-crema-d)](https://paperswithcode.com/sota/video-emotion-recognition-on-crema-d?p=multimae-der-multimodal-masked-autoencoder)<br>
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multimae-der-multimodal-masked-autoencoder/multimodal-emotion-recognition-on-iemocap)](https://paperswithcode.com/sota/multimodal-emotion-recognition-on-iemocap?p=multimae-der-multimodal-masked-autoencoder)<br>
-
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mtcae-dfer-multi-task-cascaded-autoencoder/facial-emotion-recognition-on-ravdess)](https://paperswithcode.com/sota/facial-emotion-recognition-on-ravdess?p=mtcae-dfer-multi-task-cascaded-autoencoder)<br>
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mtcae-dfer-multi-task-cascaded-autoencoder/video-emotion-recognition-on-crema-d)](https://paperswithcode.com/sota/video-emotion-recognition-on-crema-d?p=mtcae-dfer-multi-task-cascaded-autoencoder)<br>
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mtcae-dfer-multi-task-cascaded-autoencoder/dynamic-facial-expression-recognition-on-mead)](https://paperswithcode.com/sota/dynamic-facial-expression-recognition-on-mead?p=mtcae-dfer-multi-task-cascaded-autoencoder)<br>
