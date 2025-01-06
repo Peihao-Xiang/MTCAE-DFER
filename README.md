@@ -20,7 +20,7 @@ Note: The .ipynb is just a simple example. In addition, the VideoMAE encoder mod
 This paper expands the cascaded network branch of the autoencoder-based multi-task learning (MTL) framework for dynamic facial expression recognition, namely Multi-Task Cascaded Autoencoder for Dynamic Facial Expression Recognition (MTCAE-DFER). MTCAE-DFER builds a plug-and-play cascaded decoder module, which is based on the Vision Transformer (ViT) architecture and employs the decoder concept of Transformer to reconstruct the multi-head attention module. The decoder output from the previous task serves as the query (Q), representing local dynamic features, while the Video Masked Autoencoder (VideoMAE) shared encoder output acts as both the key (K) and value (V), representing global dynamic features. This setup facilitates interaction between global and local dynamic features across related tasks. Additionally, this proposal aims to alleviate overfitting of complex large model. We utilize autoencoder-based multi-task cascaded learning approach to explore the impact of dynamic face detection and dynamic face landmark on dynamic facial expression recognition, which enhances the model's generalization ability. After we conduct extensive ablation experiments and comparison with state-of-the-art (SOTA) methods on various public datasets for dynamic facial expression recognition, the robustness of the MTCAE-DFER model and the effectiveness of global-local dynamic feature interaction among related tasks have been proven.
 
 <p align="center">
-  <img src="Images/MTL_MTCL.png" width=100%
+  <img src="Images/MTL_MTCL.png" width=90%
     class="center"><br>
   Illustration of the frameworks.
 </p>
@@ -28,7 +28,7 @@ This paper expands the cascaded network branch of the autoencoder-based multi-ta
 The differences between the following four frameworks: (a) Autoencoder-Based Single-Task Learning Framework, (b) Autoencoder-Based Non-Fully Shared Multi-Task Learning Framework, (c) Autoencoder-Based Fully Shared Multi-Task Learning Framework and (d) Our Autoencoder-Based Multi-Task Cascaded Learning Framework.
 
 <p align="center">
-  <img src="Images/MTSAE-DFER.png" width=100%
+  <img src="Images/MTSAE-DFER.png" width=90%
     class="center"><br>
   MTCAE-DFER Model Structure.
 </p>
@@ -36,7 +36,7 @@ The differences between the following four frameworks: (a) Autoencoder-Based Sin
 ## Implementation details
 
 <p align="center">
-  <img src="Images/MTCAE-DFER Flowchart.png" width=100%> <br>
+  <img src="Images/MTCAE-DFER Flowchart.png" width=70%> <br>
   The architecture of MultiMAE-DER.
 </p>
 
