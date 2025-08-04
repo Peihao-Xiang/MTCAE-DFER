@@ -65,7 +65,7 @@ In addition, this project is inspired by [MTFormer](https://github.com/xiaogang0
 
 ## License
 
-This project is under the Apache License 2.0. See [LICENSE](LICENSE) for details.
+This project is under the MIT License See [LICENSE](LICENSE) for details.
 
 ## Citation
 
