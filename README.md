@@ -18,7 +18,7 @@ This paper expands the cascaded network branch of the autoencoder-based multi-ta
 <p align="center">
   <img src="Images/MTL_MTCL.png" width=90%
     class="center"><br>
-  Illustration of the frameworks.
+  Fig. 1 Illustration of the frameworks.
 </p>
 
 The differences between the following four frameworks: (a) Autoencoder-Based Single-Task Learning Framework, (b) Autoencoder-Based Non-Fully Shared Multi-Task Learning Framework, (c) Autoencoder-Based Fully Shared Multi-Task Learning Framework and (d) Our Autoencoder-Based Multi-Task Cascaded Learning Framework.
@@ -26,14 +26,14 @@ The differences between the following four frameworks: (a) Autoencoder-Based Sin
 <p align="center">
   <img src="Images/MTSAE-DFER.png" width=90%
     class="center"><br>
-  MTCAE-DFER Model Structure.
+  Fig. 2 MTCAE-DFER Model Structure.
 </p>
 
 ## Implementation details
 
 <p align="center">
   <img src="Images/MTCAE-DFER Flowchart.png" width=70%> <br>
-  The architecture of MultiMAE-DER.
+  Fig. 3 The architecture of MultiMAE-DER.
 </p>
 
 ## Main Results
