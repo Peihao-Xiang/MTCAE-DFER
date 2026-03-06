@@ -1,6 +1,6 @@
 # MTCAE-DFER: Multi-Task Cascaded Autoencoder for Dynamic Facial Expression Recognition (IEEE IJCB 2025)
 
-> [![HCPS link](https://img.shields.io/badge/FIU-HCPS-red)](https://hcps.fiu.edu/) [![Arxiv link](https://img.shields.io/static/v1?label=arXiv&message=MTCAE-DFER&color=red&logo=arxiv)](https://arxiv.org/abs/2412.18988) [![Citation link](https://img.shields.io/badge/Citation-BibTeX-red)](#citation)[![IJCB link](https://img.shields.io/badge/IEEE_IJCB--25-MTCAE--DFER-red)](https://ieeexplore.ieee.org/document/11410713)<br>
+> [![HCPS link](https://img.shields.io/badge/FIU-HCPS-red)](https://hcps.fiu.edu/) [![Arxiv link](https://img.shields.io/static/v1?label=arXiv&message=MTCAE-DFER&color=red&logo=arxiv)](https://arxiv.org/abs/2412.18988) [![Citation link](https://img.shields.io/badge/Citation-BibTeX-red)](#citation) [![IJCB link](https://img.shields.io/badge/IEEE_IJCB--25-MTCAE--DFER-red)](https://ieeexplore.ieee.org/document/11410713)<br>
 > [Peihao Xiang](https://scholar.google.com/citations?user=k--3fM4AAAAJ&hl=zh-CN&oi=ao), [Kaida Wu](https://ieeexplore.ieee.org/author/167739911238744), and [Ou Bai](https://scholar.google.com/citations?hl=zh-CN&user=S0j4DOoAAAAJ)<br>
 > HCPS Laboratory, Department of Electrical and Computer Engineering, Florida International University<br>
 
