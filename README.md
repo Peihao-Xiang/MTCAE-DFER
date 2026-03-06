@@ -82,4 +82,14 @@ If you find this repository helpful, please consider citing our work:
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2412.18988}, 
 }
+@INPROCEEDINGS{11410713,
+  author={Xiang, Peihao and Wu, Kaida and Bai, Ou},
+  booktitle={2025 IEEE International Joint Conference on Biometrics (IJCB)}, 
+  title={MTCAE-DFER: Multi-Task Cascaded Autoencoder for Dynamic Facial Expression Recognition}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-9},
+  keywords={Face recognition;Facial expressions;Autoencoders;Multitasking;Transformers;Feature extraction;Robustness;Decoding;Face detection;Videos},
+  doi={10.1109/IJCB65343.2025.11410713}}
 ```
